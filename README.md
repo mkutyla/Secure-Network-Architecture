@@ -5,7 +5,7 @@ Repository for secure network architecture projects.
 # About
 
 This repository has been divided into directories - each holding documents related to one specific project regarding designing a secure network architecture.
-All documents present in this repository have been made as university assessements. As all Collaborators (see section **Collaborators**) are attending Warsaw University of Technology, all documents have been in written in Polish.
+All documents present in this repository have been made as university assessements. As all Collaborators (see section **Collaborators**) are attending Warsaw University of Technology, all documents have been written in Polish.
 
 # Collaborators
 
