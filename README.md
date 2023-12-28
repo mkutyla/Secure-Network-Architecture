@@ -20,7 +20,7 @@ This group is further refered to as WOJK.
 
 # Repository structure
 
-## Directory *A new web app*
+## Directory *1_A-new-web-app*
 
 This directory contains documents related to a project in which WOJK team was supposed to design a secure network architecture for a new web application. It includes introducing assets such as:
 * border firewall,
@@ -37,7 +37,7 @@ Security requirements included:
 
 Archiecture has been implemented and testes in GNS3 network emulator.
 
-## Directory *A new office*
+## Directory *2_A-new-office*
 
 This directory contains documents related to a project in which WOJK team was supposed to design a secure network architecture for a new office. It includes introducing solutions such as:
 * host-to-site VPN,
