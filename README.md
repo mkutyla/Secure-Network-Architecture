@@ -13,8 +13,8 @@ Collaborators for this repository include:
 
 * Miłosz Kutyła ([GitHub](https://github.com/mkutyla)), Warsaw University of Technology
 * Jakub Ossowski ([GitHub](https://github.com/bilevcik)), Warsaw University of Technology
-* Patryk Jankowicz, Warsaw University of Technology
-* Jan Walczak, Warsaw University of Technology
+* Patryk Jankowicz ([GitHub](https://github.com/PatrykSJ)), Warsaw University of Technology
+* Jan Walczak ([GitHub](https://github.com/JanWalczak)), Warsaw University of Technology
 
 This group is further refered to as WOJK.
 
