@@ -49,5 +49,5 @@ This directory contains documents related to a project in which WOJK team was su
 * vulnerability scanner,
 * SIEM.
 
-Although project's documentation has been written in Polish, diagrams are described in English and could still be informational for non-Polish speakers.
+Although project's documentation has been written in Polish, diagrams are described in English and could still be informational for non-Polish readers.
 
